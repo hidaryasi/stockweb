@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+Keras
+pandas_datareader
+matplotlib
+tensorflow-cpu
+yfinance
+h5py
+pyOpenSSL
