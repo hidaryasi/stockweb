@@ -3,8 +3,8 @@ from pandas_datareader.nasdaq_trader import get_nasdaq_symbols
 import pandas_datareader as web
 import numpy as np
 import pandas as pd
-from keras.models import Sequential
-from keras.layers import Dense, LSTM, Dropout
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense, LSTM, Dropout
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.neural_network import MLPClassifier
 import matplotlib.pyplot as plt
